@@ -1,4 +1,4 @@
-let api = "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";
+let api = "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";
 
 let input = document.getElementById("statement");
 
@@ -16,7 +16,6 @@ divs.forEach((d) => {
     "width: 200px; height: 200px; background-color: #292c31; border-radius: 10px; border: 3px solid #36383d;";
 });
 
-// document.querySelector(".images div img");
 
 let getImages = async function () {
   // request api
